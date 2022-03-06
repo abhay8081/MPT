@@ -4,5 +4,5 @@ matplotlib
 plotly
 bokeh
 flask
-dotenv
 sqlalchemy
+openpyxl
